@@ -17,5 +17,4 @@ HTML5 – Semantic structure
 CSS3 – Styling and responsiveness
 
 🌐 Live Demo
-(link)
-
+ https://sandhiya2418.github.io/udemy-clone/
